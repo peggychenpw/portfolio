@@ -1,0 +1,64 @@
+{
+  "code": 200,
+  "msg": "success!",
+  "data": [
+    {
+      "title": "InSense",
+      "brief": "A Luxury perfume ecommerce website, built with react and express",
+      "tags": [
+        "react",
+        "redux",
+        "nodejs",
+        "express",
+        "mysql",
+        "meterialUI",
+        "scss",
+        "git",
+        "xd"
+      ],
+      "cover": "/image/insense.png",
+      "id": 1,
+      "link": "https://github.com/YiChengChen0608/InSense"
+    },
+    {
+      "title": "Tarotpedia",
+      "brief": "A Tarot card dictionary with a simple search feature. You can also draw your tarot cards and get your card readings",
+      "tags": [
+        "react",
+        "sass",
+        "javascript",
+        "vercel",
+        "git"
+      ],
+      "cover": "./image/taro.png",
+      "id": 2,
+      "link": "https://tarot-cuv2i1oms.vercel.app/"
+    },
+    {
+      "title": "Todo App",
+      "brief": "A To-Do list application using CRUD functionality and built with react",
+      "tags": [
+        "react",
+        "useContext",
+        "useReducer",
+        "github"
+      ],
+      "cover": "./image/todo-app.png",
+      "id": 3,
+      "link": "https://peggychenpw.github.io/todo/"
+    },
+    {
+      "title": "iTube",
+      "brief": "A simple version of YouTube, no ads",
+      "tags": [
+        "react",
+        "youtubeAPI",
+        "semanticUI",
+        "vercel"
+      ],
+      "cover": "./image/iTube.png",
+      "id": 4,
+      "link": "https://videos-puce-nine.vercel.app/"
+    }
+  ]
+}
