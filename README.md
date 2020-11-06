@@ -3,4 +3,4 @@ https://portfolio-two-jet.vercel.app/<br />
 
 
 
-  <img src="./public/preview.png" width="720" />
+  <img src="./image/preview.png" width="720" />
