@@ -9,7 +9,7 @@ export default ({ dataSource }) => {
         {dataSource &&
           dataSource.map((item) => (
             <li key={item.id}>
-              <a href={item.link}>
+              <a href={item.link} target="_blank">
                 <div className={styles.cover}>
                   <img src={item.cover} alt="workImg" />
                 </div>

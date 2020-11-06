@@ -8,11 +8,16 @@
   .title {
     padding-bottom: 40px;
     h3 {
-      font-size: 30px;
+      font-size: 20px;
       padding-bottom: 20px;
       color: rgba(0, 0, 0, 0.8);
       font-weight: 400;
+      span{
+        padding: 10px;
+        border-bottom: 1px solid black;
+      }
     }
+   
     p {
       color: rgba(0, 0, 0, 0.7);
     }

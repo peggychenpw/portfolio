@@ -4,7 +4,7 @@
   "data": [
     {
       "title": "InSense",
-      "brief": "A Luxury perfume ecommerce website, built with react and express",
+      "brief": "A Luxury perfume ecommerce website, built with React, Express, and MySql",
       "tags": [
         "react",
         "redux",

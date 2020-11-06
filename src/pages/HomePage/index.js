@@ -10,8 +10,7 @@ export default () => {
         <h2>Peggy Chen</h2>
         <p>I create websites. I love using technology in creative contexts.</p>
         <p>I am a front-end developer based in Taipei, Taiwan.</p>
-        <p>Contact me at <b>peggy.chen.pw@gmail.com</b></p>
-
+        <p>Contact me at <i>peggy.chen.pw@gmail.com</i></p>
       </div>
 
 

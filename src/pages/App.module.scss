@@ -1,4 +1,8 @@
 .App {
+  background: #D3CCE3;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #E9E4F0, #D3CCE3);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #E9E4F0, #D3CCE3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
   display: flex;
   min-height: 100vh;
   flex-direction: column;
@@ -8,7 +12,7 @@
     flex: 1;
   }
   .header {
-    background-color: rgb(250, 250, 250);
+    
     height: 60px;
     .selected {
       color: #333 ;
@@ -49,8 +53,7 @@
     text-align: center;
     padding: 20px 0px;
     color: #555;
-    background: #fafafa;
-    border-top: 1px solid #f2f2f2;
+   
     p {
       padding: 2px 0px;
     }
