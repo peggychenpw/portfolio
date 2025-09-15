@@ -4,14 +4,14 @@
   "data": [
     {
       "title": "Melaleuca JP",
-      "brief": "The largest online wellness shopping club for the Japanese market",
+      "brief": "The largest online wellness shopping club for the Japanese market. Melaleuca is an international wellness and direct marketing company founded in 1985, offering over 450 health, personal care, and home care products",
       "cover": "/image/JP.png",
       "id": 1,
       "link": "https://jp.melaleuca.com/"
     },
     {
       "title": "Melaleuca KR",
-      "brief": "The largest online wellness shopping club for the Korean market",
+      "brief": "The largest online wellness shopping club for the Korean market. Melaleuca is an international wellness and direct marketing company founded in 1985, offering over 450 health, personal care, and home care products",
       "cover": "/image/KR.png",
       "id": 2,
       "link": "https://kr.melaleuca.com/"
@@ -63,7 +63,7 @@
     },
     {
       "title": "iTube",
-      "brief": "A simple version of YouTube, no ads",
+      "brief": "A simplified version of YouTube, without ads or distracting comments, integrated with the YouTube API.",
       "tags": [
         "react",
         "youtubeAPI",
