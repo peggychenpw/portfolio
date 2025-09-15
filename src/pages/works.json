@@ -3,6 +3,20 @@
   "msg": "success!",
   "data": [
     {
+      "title": "Melaleuca JP",
+      "brief": "The largest online wellness shopping club for the Japanese market",
+      "cover": "/image/JP.png",
+      "id": 1,
+      "link": "https://jp.melaleuca.com/"
+    },
+    {
+      "title": "Melaleuca KR",
+      "brief": "The largest online wellness shopping club for the Korean market",
+      "cover": "/image/KR.png",
+      "id": 2,
+      "link": "https://kr.melaleuca.com/"
+    },
+    {
       "title": "InSense",
       "brief": "A Luxury perfume ecommerce website, built with React, Express, and MySql",
       "tags": [
@@ -17,7 +31,7 @@
         "xd"
       ],
       "cover": "/image/insense.png",
-      "id": 1,
+      "id": 3,
       "link": "https://github.com/YiChengChen0608/InSense"
     },
     {
@@ -31,7 +45,7 @@
         "git"
       ],
       "cover": "./image/taro.png",
-      "id": 2,
+      "id": 4,
       "link": "https://tarot-cuv2i1oms.vercel.app/"
     },
     {
@@ -44,7 +58,7 @@
         "github"
       ],
       "cover": "./image/todo-app.png",
-      "id": 3,
+      "id": 5,
       "link": "https://peggychenpw.github.io/todo/"
     },
     {
@@ -57,7 +71,7 @@
         "vercel"
       ],
       "cover": "./image/iTube.png",
-      "id": 4,
+      "id": 6,
       "link": "https://videos-puce-nine.vercel.app/"
     }
   ]
